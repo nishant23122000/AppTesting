@@ -1,0 +1,16 @@
+{
+    "id": "58259617-ec5e-4f68-b76e-0a2cae517d97",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nishant",
+        "homepage": "Nishant",
+        "support": "https://open.rocket.chat/"
+    },
+    "name": "appDialog",
+    "nameSlug": "appdialog",
+    "classFile": "AppDialogApp.ts",
+    "description": "Will show Dialog",
+    "implements": []
+}
